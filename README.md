@@ -1,9 +1,9 @@
 # MultiTalentTree
 
-A simple telent tree function to reuse in any project. 
+A simple talent tree function to reuse in any project. 
 Ready to connect with database.
 
-This project in using Unity version 2019.4.0f1 screen ratio => 9:16
+This project is using Unity version 2019.4.0f1 screen ratio => 9:16
 
 I used Unity UI Extensions for UILineRenderer Component.
 
